@@ -1,0 +1,1 @@
+description = "jbspace-generated-fields"
